@@ -13,4 +13,5 @@
 # meme describing my  misery💔
 
 ![Design preview for the E-commerce product page coding challenge](./meme.png)
+
 **enjoy this activity** 🚀
