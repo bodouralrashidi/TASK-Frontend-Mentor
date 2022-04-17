@@ -1,6 +1,6 @@
 
 
-## A little challenge for you, spot out the million difference between the two picture! 😜
+## A little challenge for you, spot out the million differences between the two picture! 😜
 
 # Mine😎
 
