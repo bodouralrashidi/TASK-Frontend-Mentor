@@ -9,6 +9,6 @@
 
 # Mine😎
 
-[Frontend Mentor](./mehWebsite.png)
+![Frontend Mentor](./mehWebsite.png)
 
 **enjoy this activity** 🚀
